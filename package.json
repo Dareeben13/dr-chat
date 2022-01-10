@@ -1,0 +1,8 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/Dareeben13/dr-chat.git",
+  "author": "Dare",
+  "license": "MIT"
+}
